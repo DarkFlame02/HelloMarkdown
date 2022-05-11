@@ -10,4 +10,10 @@ Fran es muy guapo.
 
 ## Conclusion
 
-Al final fran no es tan guapo.
+Total, los comandos para subir cambios:
+
+```bash
+git add .
+git commit -m "description"
+git push
+```
