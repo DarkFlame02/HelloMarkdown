@@ -6,7 +6,7 @@ Aqui se explican cosas.
 
 ## Desarrollo
 
-Fran es muy guapo.
+Buenas lolas.
 
 ## Conclusion
 
