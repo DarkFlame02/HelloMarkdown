@@ -8,4 +8,4 @@ Esto es una imagen:
 
 ![Cactus](https://www.thecolvinco.com/es/c/wp-content/uploads/2020/06/1b-1024x1024.jpg)
 
-Enlace a la [documentación](docs.md)
+Enlace a la [documentación](docs/index.md)
